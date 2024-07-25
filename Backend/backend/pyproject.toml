@@ -2,7 +2,7 @@
 name = "leitor-documentos-granto"
 version = "0.1.0"
 description = ""
-authors = ["antonio <aaba03@gmail.com>"]
+authors = ["Carlos Alexandre, Eder Queiroz e Luiz Antonio"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
